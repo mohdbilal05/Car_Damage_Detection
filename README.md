@@ -36,19 +36,19 @@ Accuracy: Achieved competitive performance on test set
 
 🧪 Installation & Setup (Local)
 Follow these steps to run the project locally:
-Clone the repository
+## Clone the repository
 git clone https://github.com/mohdbilal05/Car_Damage_Detection.git
 cd Car_Damage_Detection
 
-Create and activate a virtual environment
+## Create and activate a virtual environment
 python -m venv venv
 venv\Scripts\activate   # For Windows
 source venv/bin/activate  # For macOS/Linux
 
-Install dependencies
+## Install dependencies
 pip install -r requirements.txt
 
-Run the Streamlit app
+## Run the Streamlit app
 streamlit run app.py
 
 📁 Project Structure
