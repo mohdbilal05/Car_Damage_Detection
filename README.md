@@ -1,6 +1,7 @@
 # 🚗 Car Damage Detection using PyTorch
 
 
+
 # 🧠 Overview
 Car Damage Detection is an AI-powered web application built using PyTorch and Streamlit that automatically detects and classifies damages on car images.
 This project aims to assist insurance companies, automobile workshops, and car rental services in identifying car damage efficiently — reducing human effort and decision-making time.
@@ -13,7 +14,7 @@ Simply upload a car image, and the model will predict whether the car is damaged
 | -------------------- | ------------------------- |
 | **Frontend / UI**    | Streamlit                 |
 | **Backend / Model**  | PyTorch                   |
-| **Image Processing** | OpenCV, Pillow            |
+| **Image Processing** | CNN           |
 | **Environment**      | Python 3.10+              |
 | **Deployment**       | Streamlit Community Cloud |
 
@@ -36,19 +37,19 @@ Accuracy: Achieved competitive performance on test set
 
 # 🧪 Installation & Setup (Local)
 Follow these steps to run the project locally:
-## Clone the repository
+1. Clone the repository
 git clone https://github.com/mohdbilal05/Car_Damage_Detection.git
 cd Car_Damage_Detection
 
-## Create and activate a virtual environment
+2. Create and activate a virtual environment
 python -m venv venv
 venv\Scripts\activate   # For Windows
 source venv/bin/activate  # For macOS/Linux
 
-## Install dependencies
+3. Install dependencies
 pip install -r requirements.txt
 
-## Run the Streamlit app
+4. Run the Streamlit app
 streamlit run app.py
 
 # 📁 Project Structure
@@ -66,5 +67,6 @@ AI-powered automotive inspection tools
 👋 Hi, I’m Mohd Bilal
  —
 A passionate AI Engineer and Generative AI Developer building intelligent systems that combine deep learning and interactive web apps.
-📬 Connect with me on LinkedIn(https://www.linkedin.com/in/bilal-mohd/)
-or explore more projects on GitHub(https://github.com/mohdbilal05)
+[🌐 Live Demo](https://cardamagedetectionusingpytorch.streamlit.app/) |
+[🔗 Connect on LinkedIn](https://www.linkedin.com/in/bilal-mohd/)
+
