@@ -57,8 +57,8 @@ The workflow spans: dataset preparation → image processing & augmentation → 
 | Category        | Tools & Technologies                        |
 |-----------------|--------------------------------------------|
 | Programming     | Python 3                                   |
-| Libraries       | OpenCV, TensorFlow / PyTorch, Detectron2 / Keras, NumPy, Matplotlib |
-| Modeling        | Object detection, segmentation (YOLO / Mask R-CNN) |
+| Libraries       | TensorFlow / PyTorch, NumPy, Matplotlib |
+| Modeling        | Object detection, segmentation  |
 | Visualization   | Matplotlib, Seaborn, OpenCV                |
 | Environment     | Jupyter Notebook / Scripts                 |
 | Deployment Ready| TorchScript export       |
