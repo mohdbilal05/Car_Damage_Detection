@@ -87,7 +87,7 @@ Data Science & Machine Learning Enthusiast | Turning vision into real-world comp
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/bilal-mohd)  
 - 🌐 [GitHub](https://github.com/mohdbilal05)
-- 🚀 Live Demo: [Car Damage Detection]([https://askurl-ai.streamlit.app/](https://cardamagedetectionusingpytorch.streamlit.app/))   
+- 🚀 Live Demo: [Car Damage Detection]([https://askurl-ai.streamlit.app/](https://cardamagedetectionusingpytorch.streamlit.app/)
 - ✉️ Email: mohdbilal3109@gmail.com
 
 ---
