@@ -83,10 +83,11 @@ It shows how **computer vision + deep learning** can drive operational efficienc
 ## 👨‍💻 About the Author  
 **Mohd Bilal**  
 Data Science & Machine Learning Enthusiast | Turning vision into real-world computer vision solutions  
-📍 I’m passionate about building applied AI systems that solve business problems in domains like automotive, insurance and beyond.
+📍 I’m passionate about building applied AI systems that solve business problems in domains like automotive, insurance, and beyond.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/bilal-mohd)  
-- 🌐 [GitHub](https://github.com/mohdbilal05)  
+- 🌐 [GitHub](https://github.com/mohdbilal05)
+- 🚀 Live Demo: [Car Damage Detection]([https://askurl-ai.streamlit.app/](https://cardamagedetectionusingpytorch.streamlit.app/))   
 - ✉️ Email: mohdbilal3109@gmail.com
 
 ---
